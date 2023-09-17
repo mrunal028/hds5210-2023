@@ -9,8 +9,8 @@ Did you complete and submit the multiple choice part of the assignment?
 
 ## Functionality:
 Did your code do what the assignment required?
-**Your week 2 assignment 2 notebook should be in your week02 folder (it is not)**
-**All the code passed the assertions.**
+* **Your week 2 assignment 2 notebook should be in your week02 folder (it is not)**
+* **All the code passed the assertions.**
 
 ## Coding Best Practices:
 Was your code readable, efficient, and in line with what we learned in class?
