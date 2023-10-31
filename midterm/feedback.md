@@ -1,7 +1,7 @@
 # Midterm Feedback
 The midterm feedback will be very similar to what you receive on a weekly basis for the homework, but more specific for each problem in this case.
 
-## Final Score: 28/50
+## Final Score: 29/50
 
 
 ### Step 1: Priest Score Calculation
@@ -10,13 +10,15 @@ The midterm feedback will be very similar to what you receive on a weekly basis 
 
 ### Step 2: Find a Hospital
 * **5pts** (-1) Your code correctly fetched the correct hospital given the inputs using requests. Your function should return None if anything fails.
-* **2pts** (-2) This docstring is better than your first function; however, the format of your docstring does not exactly follow Professor Boal's examples, and does not contain the expected input/output types.
-* **3pts** - You had at least three doctests in your docstring
+* **2pts** (-0.5) This docstring is better than your first function; however, the format of your docstring does not exactly follow Professor Boal's examples, and does not contain the expected input/output types.
+* **3pts** (-1) You had at least three doctests in your docstring; however, your formatting is not like Professor Boal's examples.
+
 
 ### Step 3: Get the Hospital Address
 * **5pts** (-2) Your code is set up for a saved file. It need to fetch the file, and then parsed it, and looked up the hospital
-* **2pts** (-2) This docstring is better than your first function; however, the format of your docstring does not exactly follow Professor Boal's examples, and does not contain the expected input/output types.
-* **3pts** - You had at least three doctests in your docstring
+* **2pts** (-0.5) This docstring is better than your first function; however, the format of your docstring does not exactly follow Professor Boal's examples, and does not contain the expected input/output types.
+* **3pts** (-1) You had at least three doctests in your docstring; however, your formatting is not like Professor Boal's examples.
+
 
 ### Step 4: Process List of Patients
 * **10pts** (-8) Your code is not correct and does not meet the requiremetns. You are not fetching and processing a file, and you are not processing the rows per the instructions. Your function is incorrectly named and does not output what it should.
